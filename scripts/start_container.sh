@@ -1,6 +1,6 @@
 #!/bin/bash
 set -e
-  
+
 # Pull the Docker image from Docker Hub
 docker pull 797272/simple-python-flask-app
 
